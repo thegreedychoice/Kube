@@ -1,0 +1,12 @@
+{
+  "name": "expected_date_svc",
+  "version": "1.0.0",
+  "description": "Service that tells when an invoice is expected to be paid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "set PORT=3006 && node index.js"
+  },
+  "author": "Shubham Shukla",
+  "license": "ISC"
+}

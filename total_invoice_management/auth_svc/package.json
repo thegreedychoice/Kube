@@ -1,0 +1,15 @@
+{
+  "name": "auth_svc",
+  "version": "1.0.0",
+  "description": "Microservice to manage authentication to the API gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "set PORT=3006 && node index.js"
+  },
+  "author": "Shubham Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
